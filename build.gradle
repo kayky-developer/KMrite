@@ -33,3 +33,7 @@ dependencyResolutionManagement {
 		maven { url 'https://jitpack.io' }
 	}
 }
+
+dependencies {
+	implementation 'com.github.kayky-developer:KMrite:Tag'
+}
