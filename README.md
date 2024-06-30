@@ -19,6 +19,8 @@ This project is made for you who like to build and injector app with no c++ at a
     - Hex : **0A010213**
 - Click **START PATCH** to begin inject into the process
 
+[](https://jitpack.io/v/kayky-developer/KMrite.svg)](https://jitpack.io/#kayky-developer/KMrite)
+
 ## Credits
 - [LibInjector](https://github.com/jbro129/LibInjector) by [jbro129](https://github.com/jbro129)
 - [libsu](https://github.com/topjohnwu/libsu) by [topjohnwu](https://github.com/topjohnwu) 
